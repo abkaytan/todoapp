@@ -44,3 +44,6 @@ Login :
 
 * Swagger - Authorize Screenshot:
 ![](src/main/resources/img/swaggerjwtauthoizepanel.png)
+
+* Still working on thymeleaf
+![](src/main/resources/img/loginpage.png)
